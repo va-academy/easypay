@@ -1,8 +1,8 @@
 # EasyPay.
 
-A beginner-friendly Python finance tracker for practicing Git and GitHub.
+A beginner-friendly Python finance tracker for practicing Git and GitHub...
 Use fictional data: this application records income and expenses locally and
-does not process real payments.
+does not process real payments...
 
 ## Run the app
 
