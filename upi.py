@@ -1,3 +1,4 @@
+# This is a sample UPI payment API for demonstration purposes only. It does not process real payments and should not be used in production.
 
 """
 EasyPay Finance - Sample UPI Payment API
